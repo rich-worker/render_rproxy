@@ -24,7 +24,7 @@
 ## Быстрый старт
 
 ```bash
-git clone https://github.com/you/render-shield-proxy.git
+git clone https://github.com/rich-worker/render_rproxy.git
 cd render-shield-proxy
 npm install
 ```
